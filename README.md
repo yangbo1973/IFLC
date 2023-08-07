@@ -1,5 +1,5 @@
 # IFLC
-This is the source code for reproducing experimental results for CIFAR-10 and CIFAR-100 datasets in "Invariant Feature based Label Correction for DNN When Learning with Noisy Labels". Please standby for the full source codes, we will update them as soon as possible. Thank you for your patience.
+This is the source code for reproducing experimental results for CIFAR and CIFAR-N in "Invariant Feature based Label Correction for DNN When Learning with Noisy Labels". Please standby for the full source codes, we will update them as soon as possible. Thank you for your patience.
 
 ## Requirements:
 - Python 3.8
