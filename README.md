@@ -1,4 +1,6 @@
 # IFLC
 This is the source code for IFLC.
 
-Required 
+#Requirements:
+## Python 3.8
+## Pytorch 1.11.0
