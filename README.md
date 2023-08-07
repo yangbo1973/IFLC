@@ -1,2 +1,4 @@
 # IFLC
-Please standby for the full source code, we will update as soon as possible.
+This is the source code for IFLC.
+
+Required 
