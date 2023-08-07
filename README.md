@@ -1,5 +1,5 @@
 # IFLC
-This is the source code for IFLC.
+This is the source code for Invariant Feature based Label Correction for DNN When Learning with Noisy Labels.
 
 ## Requirements:
 - Python 3.8
